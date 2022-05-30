@@ -3,9 +3,14 @@
  <script src="index.js"></script>
 
 
+
+
  What moment.js library do?
  
  It is a library which can help format dates in a human readable way
+
+
+
 
 
  How we use moment function in index.js?
@@ -33,9 +38,15 @@
 
 
 
+
+
+
 Why we write <script src="moment.min.js"></script> before <script src="index.js"></script>?
 
 moment.min.js gets loaded before index.js, which means you can use the moment function in index.js 
+
+
+
 
 
 What is npm?
@@ -43,9 +54,15 @@ What is npm?
 It is a package manager made specifically for node.js, a JavaScript runtime designed to run on the server, not the frontend. 
 
 
+
+
+
 How to check node is installed in your computer?
 
 node -v
+
+
+
 
 
 What is package.json file and How we can create?
