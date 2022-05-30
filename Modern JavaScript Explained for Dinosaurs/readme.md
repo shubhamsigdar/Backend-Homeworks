@@ -18,8 +18,8 @@
  first we have to install file http://momentjs.com/ and then copy and paste on moment.min.js file and then we can use moment function in index.js
  we can add moment.js to our website by downloading the moment.min.js file in the same directory and including it in our index.html file.
 <!-- index.html -->
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html?
+<html lang="en"
 <head>
   <meta charset="UTF-8">
   <title>Example</title>
