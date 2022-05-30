@@ -19,7 +19,7 @@
  we can add moment.js to our website by downloading the moment.min.js file in the same directory and including it in our index.html file.
 <!-- index.html -->
 <!DOCTYPE html?
-<html lang="en"
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Example</title>
